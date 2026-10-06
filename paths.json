@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/mirko-test-28736/:/",
+    "/content/dam/mirko-test-28736/:/media/"
+  ],
+  "includes": [
+    "/content/mirko-test-28736/",
+    "/content/dam/mirko-test-28736/"
+  ]
+}
